@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html#benedeck-kaibas",
+    "href": "about.html#benedeck-kaibas",
+    "title": "About Us!",
+    "section": "Benedeck Kaibas",
+    "text": "Benedeck Kaibas"
+  },
+  {
+    "objectID": "about.html#miguel-orti-vila",
+    "href": "about.html#miguel-orti-vila",
+    "title": "About Us!",
+    "section": "Miguel Orti-Vila",
+    "text": "Miguel Orti-Vila"
+  },
+  {
+    "objectID": "about.html#josephine-reiter",
+    "href": "about.html#josephine-reiter",
+    "title": "About Us!",
+    "section": "Josephine Reiter",
+    "text": "Josephine Reiter"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to Aquagator!",
+    "section": "",
+    "text": "Aquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.\n\n\n\nAutonomous depth control and navigation\nPressure-rated sampling chamber for deep-water collection\nModular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)\n\n\n\n\n\nFrench Creek Valley Conservancy\nWatershed Conservation and Research Center\n\nFor more information or to collaborate, contact the Aquagator project team."
+  },
+  {
+    "objectID": "index.html#about-aquagator",
+    "href": "index.html#about-aquagator",
+    "title": "Welcome to Aquagator!",
+    "section": "",
+    "text": "Aquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.\n\n\n\nAutonomous depth control and navigation\nPressure-rated sampling chamber for deep-water collection\nModular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)\n\n\n\n\n\nFrench Creek Valley Conservancy\nWatershed Conservation and Research Center\n\nFor more information or to collaborate, contact the Aquagator project team."
+  }
+]

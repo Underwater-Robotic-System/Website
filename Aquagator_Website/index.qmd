@@ -1,7 +1,19 @@
 ---
-title: "Aquagator_Website"
+title: "Welcome to Aquagator!"
 ---
 
-This is a Quarto website.
+## About Aquagator
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Aquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.
+
+### Key features
+
+-   Autonomous depth control and navigation
+-   Pressure-rated sampling chamber for deep-water collection
+-   Modular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)
+
+### Project Partners
+-   French Creek Valley Conservancy
+-   Watershed Conservation and Research Center
+
+For more information or to collaborate, contact the Aquagator project team. 
