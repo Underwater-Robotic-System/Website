@@ -1,6 +1,7 @@
 ---
-title: "Welcome to Aquagator!"
+title: "Welcome to Aquagator!" 
 ---
+![Logo](robot_logo.png) 
 
 ## About Aquagator
 
