@@ -32,6 +32,13 @@
     "href": "index.html#about-aquagator",
     "title": "Welcome to Aquagator!",
     "section": "About Aquagator",
-    "text": "About Aquagator\nAquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.\n\nKey features\n\nAutonomous depth control and navigation\nPressure-rated sampling chamber for deep-water collection\nModular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)\n\n\n\nProject Partners\n\nFrench Creek Valley Conservancy\nWatershed Conservation and Research Center\n\nFor more information or to collaborate, contact the Aquagator project team."
+    "text": "About Aquagator\nAquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.\n\nKey features\n\nAutonomous depth control and navigation\nModular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)\nData logging and viewing capabilities\nAdaptable design for multiple research applications\n\n\n\nApplications\n\nEnvironmental monitoring of lakes and rivers\nWater quality assessment for research and conservation\nEducational tool for local scientific outreach\n\n\n\nProject Partners\n\nFrench Creek Valley Conservancy\nWatershed Conservation and Research Center\n\nFor more information or to collaborate, contact the Aquagator project team."
+  },
+  {
+    "objectID": "function.html",
+    "href": "function.html",
+    "title": "Robotic Functions",
+    "section": "",
+    "text": "Setting up the Robot\nTo set up the Aquagator robot, follow these steps: 1. Unpack the robot and ensure all components are present. 2. Connect sensor box to color-corresponding codes on the robot. 3. Connect the red box to the power supply. 4. Ensure that the depth sensor is connected and turned on. 5. Ensure that the robot’s motors are free from the sensor connection cords. 6. Connect red box to the computer using the provided USB cable."
   }
 ]
