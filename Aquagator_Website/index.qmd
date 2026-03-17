@@ -10,8 +10,14 @@ Aquagator is an autonomous robot designed to collect water samples from depths t
 ### Key features
 
 -   Autonomous depth control and navigation
--   Pressure-rated sampling chamber for deep-water collection
 -   Modular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)
+-   Data logging and viewing capabilities
+-   Adaptable design for multiple research applications
+
+### Applications
+-   Environmental monitoring of lakes and rivers
+-   Water quality assessment for research and conservation
+-   Educational tool for local scientific outreach
 
 ### Project Partners
 -   French Creek Valley Conservancy

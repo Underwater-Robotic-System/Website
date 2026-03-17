@@ -11,14 +11,14 @@ html, body {
 h1 {
     font-size: 3em; /* Larger font size */
     font-weight: bold; /* Bold text */
-    color: #333; /* Darker color */
+    color: #269ccc; /* Darker color */
     margin-bottom: 20px; /* Space below the header */
 }
 
 h2 {
     font-size: 2em;
     font-weight: 600; /* Slightly less bold than h1 */
-    color: #555;
+    color: #269ccc;
     margin-bottom: 15px;
 }
 
