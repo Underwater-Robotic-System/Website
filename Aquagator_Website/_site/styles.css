@@ -1,7 +1,7 @@
 /* css styles */
 html, body {  
   background: #f6f5f3;  
-  color: #269ccc;  
+  color: #06768d;  
   font-family: 'Arial', sans-serif;  
   margin: 0;  
   padding: 0;  
@@ -11,14 +11,14 @@ html, body {
 h1 {
     font-size: 3em; /* Larger font size */
     font-weight: bold; /* Bold text */
-    color: #269ccc; /* Darker color */
+    color: #06768d; /* Darker color */
     margin-bottom: 20px; /* Space below the header */
 }
 
 h2 {
     font-size: 2em;
     font-weight: 600; /* Slightly less bold than h1 */
-    color: #269ccc;
+    color: #06768d;
     margin-bottom: 15px;
 }
 
@@ -26,6 +26,6 @@ h2 {
 p {
     font-size: 1em; /* Standard font size */
     line-height: 1.6; /* Increased line height for readability */
-    color: #269ccc; /* Lighter color */
+    color: #06768d; /* Lighter color */
     margin-bottom: 1em; /* Space between paragraphs */
 }

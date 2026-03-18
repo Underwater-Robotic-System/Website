@@ -3,10 +3,16 @@ title: "Robotic Functions"
 ---
 
 ### Setting up the Robot
+
 To set up the Aquagator robot, follow these steps:
-1. Unpack the robot and ensure all components are present.
-2. Connect sensor box to color-corresponding codes on the robot.
-3. Connect the red box to the power supply.
-4. Ensure that the depth sensor is connected and turned on.
-5. Ensure that the robot's motors are free from the sensor connection cords.
-6. Connect red box to the computer using the provided USB cable.
+
+- Unpack the robot and ensure all components are present.
+- Connect sensor box to color-corresponding codes on the robot.
+- Connect the red box to the power supply.
+- Ensure that the depth sensor is connected and turned on.
+- Ensure that the robot's motors are free from the sensor connection cords.
+- Connect red box to the computer using the provided USB cable.
+
+### Operation
+
+### Robot Functions

@@ -39,6 +39,20 @@
     "href": "function.html",
     "title": "Robotic Functions",
     "section": "",
-    "text": "Setting up the Robot\nTo set up the Aquagator robot, follow these steps: 1. Unpack the robot and ensure all components are present. 2. Connect sensor box to color-corresponding codes on the robot. 3. Connect the red box to the power supply. 4. Ensure that the depth sensor is connected and turned on. 5. Ensure that the robot’s motors are free from the sensor connection cords. 6. Connect red box to the computer using the provided USB cable."
+    "text": "Setting up the Robot\nTo set up the Aquagator robot, follow these steps:\n\nUnpack the robot and ensure all components are present.\nConnect sensor box to color-corresponding codes on the robot.\nConnect the red box to the power supply.\nEnsure that the depth sensor is connected and turned on.\nEnsure that the robot’s motors are free from the sensor connection cords.\nConnect red box to the computer using the provided USB cable.\n\n\n\nOperation\n\n\nRobot Functions"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "What Are We Working On?",
+    "section": "",
+    "text": "Allegheny College\nWatershed Conservation and Research Center"
+  },
+  {
+    "objectID": "projects.html#current-projects",
+    "href": "projects.html#current-projects",
+    "title": "What Are We Working On?",
+    "section": "",
+    "text": "Allegheny College\nWatershed Conservation and Research Center"
   }
 ]
