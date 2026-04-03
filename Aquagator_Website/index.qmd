@@ -1,11 +1,11 @@
 ---
 title: "Welcome to Aquagator!" 
 ---
-![Logo](robot_logo.png) 
+![Project Logo](robot_logo.png) 
 
 ## About Aquagator
 
-Aquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.
+Aquagator is an autonomous robot designed for lake water quality monitoring. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.
 
 ### Key features
 

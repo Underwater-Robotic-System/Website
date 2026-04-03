@@ -4,49 +4,49 @@
     "href": "about.html#benedeck-kaibas",
     "title": "About Us!",
     "section": "Benedeck Kaibas",
-    "text": "Benedeck Kaibas"
+    "text": "Benedeck Kaibas\nEmail: kaibas01@allegheny.edu"
   },
   {
     "objectID": "about.html#miguel-orti-vila",
     "href": "about.html#miguel-orti-vila",
     "title": "About Us!",
     "section": "Miguel Orti-Vila",
-    "text": "Miguel Orti-Vila"
+    "text": "Miguel Orti-Vila\nEmail: ortivila01@allegheny.edu"
   },
   {
     "objectID": "about.html#josephine-reiter",
     "href": "about.html#josephine-reiter",
     "title": "About Us!",
     "section": "Josephine Reiter",
-    "text": "Josephine Reiter"
+    "text": "Josephine Reiter\nEmail: reiter01@allegheny.edu"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to Aquagator!",
     "section": "",
-    "text": "Logo"
+    "text": "Project Logo"
   },
   {
     "objectID": "index.html#about-aquagator",
     "href": "index.html#about-aquagator",
     "title": "Welcome to Aquagator!",
     "section": "About Aquagator",
-    "text": "About Aquagator\nAquagator is an autonomous robot designed to collect water samples from depths that are typically inaccessible without a dive suit. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.\n\nKey features\n\nAutonomous depth control and navigation\nModular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)\nData logging and viewing capabilities\nAdaptable design for multiple research applications\n\n\n\nApplications\n\nEnvironmental monitoring of lakes and rivers\nWater quality assessment for research and conservation\nEducational tool for local scientific outreach\n\n\n\nProject Partners\n\nFrench Creek Valley Conservancy\nWatershed Conservation and Research Center\n\nFor more information or to collaborate, contact the Aquagator project team."
+    "text": "About Aquagator\nAquagator is an autonomous robot designed for lake water quality monitoring. Aquagator is able to recognize water depth and take water chemistry readings like pH, conductivity, and dissolved oxygen.\n\nKey features\n\nAutonomous depth control and navigation\nModular sensor suite (temperature, conductivity, depth, pH, dissolved oxygen)\nData logging and viewing capabilities\nAdaptable design for multiple research applications\n\n\n\nApplications\n\nEnvironmental monitoring of lakes and rivers\nWater quality assessment for research and conservation\nEducational tool for local scientific outreach\n\n\n\nProject Partners\n\nFrench Creek Valley Conservancy\nWatershed Conservation and Research Center\n\nFor more information or to collaborate, contact the Aquagator project team."
   },
   {
     "objectID": "function.html",
     "href": "function.html",
     "title": "Robotic Functions",
     "section": "",
-    "text": "Setting up the Robot\nTo set up the Aquagator robot, follow these steps:\n\nUnpack the robot and ensure all components are present.\nConnect sensor box to color-corresponding codes on the robot.\nConnect the red box to the power supply.\nEnsure that the depth sensor is connected and turned on.\nEnsure that the robot’s motors are free from the sensor connection cords.\nConnect red box to the computer using the provided USB cable.\n\n\n\nOperation\n\n\nRobot Functions"
+    "text": "Sensor Box\n\n\n\nSoftware Dependencies\n\nArduino Libraries\n\nMS5837 — Blue Robotics pressure sensor\nSabertoothSimplified — Sabertooth motor controller\nSoftwareSerial — built-in\nWire — built-in (I2C)\n\n\n\nPython (for sensor scripts)\n\npyserial — pip install pyserial\n\n\n\n\nSetting up the Robot\nTo set up the Aquagator robot, follow these steps:\n\nUnpack the robot and ensure all components are present.\nConnect sensor box to color-corresponding codes on the robot.\nConnect the red box to the power supply.\nEnsure that the depth sensor is connected and turned on.\nEnsure that the robot’s motors are free from the sensor connection cords.\nConnect red box to the computer using the provided USB cable.\n\n\n\nOperation\nAquagator operation is dependent on code usage. Specific function depends on user input for desired depth and sensor readings. The robot is designed to autonomously navigate to the desired depth and take water chemistry readings, which are then logged for later viewing. Monitor progress via the Serial Monitor on your control device.\n\n\nRobot Functions\n\nRemote viewing of environmental data like pH, conductivity, and dissolved oxygen.\nCamera viewing for biological and population monitoring."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "What Are We Working On?",
     "section": "",
-    "text": "Allegheny College\nWatershed Conservation and Research Center"
+    "text": "Dock Test\n\n\n\nCurrent Projects\n\n\nFrench Creek Valley Conservancy\n\n\nAllegheny College\n\n\nWatershed Conservation and Research Center"
   },
   {
     "objectID": "projects.html#current-projects",
@@ -54,5 +54,26 @@
     "title": "What Are We Working On?",
     "section": "",
     "text": "Allegheny College\nWatershed Conservation and Research Center"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Us!",
+    "section": "",
+    "text": "Email: jjumadinova@allegheny.edu"
+  },
+  {
+    "objectID": "about.html#janyl-jumanova",
+    "href": "about.html#janyl-jumanova",
+    "title": "About Us!",
+    "section": "",
+    "text": "Email: jjumadinova@allegheny.edu"
+  },
+  {
+    "objectID": "function.html#arduino-libraries",
+    "href": "function.html#arduino-libraries",
+    "title": "Robotic Functions",
+    "section": "Arduino Libraries",
+    "text": "Arduino Libraries\n\nMS5837 — Blue Robotics pressure sensor\nSabertoothSimplified — Sabertooth motor controller\nSoftwareSerial — built-in\nWire — built-in (I2C) ## Python (for sensor scripts)\npyserial — pip install pyserial\n\n\nSetting up the Robot\nTo set up the Aquagator robot, follow these steps:\n\nUnpack the robot and ensure all components are present.\nConnect sensor box to color-corresponding codes on the robot.\nConnect the red box to the power supply.\nEnsure that the depth sensor is connected and turned on.\nEnsure that the robot’s motors are free from the sensor connection cords.\nConnect red box to the computer using the provided USB cable.\n\n\n\nOperation\nAquagator operation is dependent on code usage. Specific function depends on user input for desired depth and sensor readings. The robot is designed to autonomously navigate to the desired depth and take water chemistry readings, which are then logged for later viewing.\n\n\nRobot Functions\n\nRemote viewing of environmental data like pH, conductivity, and dissolved oxygen."
   }
 ]
