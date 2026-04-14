@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Robotic Functions – Aquagator Website</title>
+<title>Aquagator Features – Aquagator Website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -97,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./function.html" aria-current="page"> 
+    <a class="nav-link" href="./function.html"> 
 <span class="menu-text">Robotic Functions</span></a>
   </li>  
   <li class="nav-item">
@@ -125,11 +125,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#software-dependencies" id="toc-software-dependencies" class="nav-link active" data-scroll-target="#software-dependencies">Software Dependencies</a></li>
-  <li><a href="#sensor-box" id="toc-sensor-box" class="nav-link" data-scroll-target="#sensor-box">Sensor Box</a></li>
-  <li><a href="#setting-up-the-robot" id="toc-setting-up-the-robot" class="nav-link" data-scroll-target="#setting-up-the-robot">Setting up the Robot</a></li>
-  <li><a href="#operation" id="toc-operation" class="nav-link" data-scroll-target="#operation">Operation</a></li>
-  <li><a href="#robot-functions" id="toc-robot-functions" class="nav-link" data-scroll-target="#robot-functions">Robot Functions</a></li>
+  <li><a href="#robotic-design" id="toc-robotic-design" class="nav-link active" data-scroll-target="#robotic-design">Robotic Design</a></li>
+  <li><a href="#sensor-design" id="toc-sensor-design" class="nav-link" data-scroll-target="#sensor-design">Sensor Design</a></li>
+  <li><a href="#allegheny-college" id="toc-allegheny-college" class="nav-link" data-scroll-target="#allegheny-college">Allegheny College</a></li>
+  <li><a href="#watershed-conservation-and-research-center" id="toc-watershed-conservation-and-research-center" class="nav-link" data-scroll-target="#watershed-conservation-and-research-center">Watershed Conservation and Research Center</a></li>
   </ul>
 </nav>
     </div>
@@ -138,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Robotic Functions</h1>
+<h1 class="title">Aquagator Features</h1>
 </div>
 
 
@@ -157,64 +156,30 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="sensor-box.jpg" class="img-fluid figure-img"></p>
-<figcaption>Sensor Box</figcaption>
+<p><img src="dock-test-2.jpg" class="img-fluid figure-img"></p>
+<figcaption>Dock Test</figcaption>
 </figure>
 </div>
-<section id="software-dependencies" class="level3">
-<h3 class="anchored" data-anchor-id="software-dependencies">Software Dependencies</h3>
-<section id="arduino-libraries" class="level4">
-<h4 class="anchored" data-anchor-id="arduino-libraries">Arduino Libraries</h4>
+<section id="robotic-design" class="level3">
+<h3 class="anchored" data-anchor-id="robotic-design">Robotic Design</h3>
 <ul>
-<li>MS5837 — Blue Robotics pressure sensor</li>
-<li>SabertoothSimplified — Sabertooth motor controller</li>
-<li>SoftwareSerial — built-in</li>
-<li>Wire — built-in (I2C)</li>
+<li>2 robot options: Manual and Autonomous design</li>
+<li>2 different cable lengths for different depth ranges</li>
 </ul>
 </section>
-<section id="python-for-sensor-scripts" class="level4">
-<h4 class="anchored" data-anchor-id="python-for-sensor-scripts">Python (for sensor scripts)</h4>
+<section id="sensor-design" class="level3">
+<h3 class="anchored" data-anchor-id="sensor-design">Sensor Design</h3>
 <ul>
-<li>pyserial — pip install pyserial</li>
+<li>Dissolved oxygen sensor that can detect change in oxygen levels at different depths</li>
+<li>pH sensor and depth sensor</li>
+<li>Conductivity sensor to measure water turbidity and salinity</li>
 </ul>
 </section>
+<section id="allegheny-college" class="level3">
+<h3 class="anchored" data-anchor-id="allegheny-college">Allegheny College</h3>
 </section>
-<section id="sensor-box" class="level3">
-<h3 class="anchored" data-anchor-id="sensor-box">Sensor Box</h3>
-<p>Sensors are color coded between robot connection points and the physical sensor box. It is important to connect the same colors to ensure proper robot function. Improper sensor use or connection will result in inaccurate readings.</p>
-<section id="sensor-use" class="level4">
-<h4 class="anchored" data-anchor-id="sensor-use">Sensor Use</h4>
-<ul>
-<li>Remove protective covers from any sensors that have them</li>
-<li>Leave sensors in air for 5–10 minutes — this allows them to self-calibrate</li>
-<li>Open Atlas Desktop on the Windows laptop (or the tablet) to verify readings are stabilizing</li>
-<li>Place sensors in water and wait another 5–10 minutes for readings to settle</li>
-<li>Once readings are stable, you may begin recording data</li>
-</ul>
-</section>
-</section>
-<section id="setting-up-the-robot" class="level3">
-<h3 class="anchored" data-anchor-id="setting-up-the-robot">Setting up the Robot</h3>
-<p>To set up the Aquagator robot, follow these steps:</p>
-<ul>
-<li>Unpack the robot and ensure all components are present.</li>
-<li>Connect sensor box to color-corresponding codes on the robot.</li>
-<li>Connect the robot-specific command box to the power supply.</li>
-<li>Ensure that the depth sensor is connected and turned on.</li>
-<li>Ensure that the robot’s motors are free from the sensor connection cords.</li>
-<li>Connect robot-specific command box to the computer using the provided USB cable.</li>
-</ul>
-</section>
-<section id="operation" class="level3">
-<h3 class="anchored" data-anchor-id="operation">Operation</h3>
-<p>Aquagator operation is dependent on code usage. Specific function depends on user input for desired depth and sensor readings. The robot is designed to autonomously navigate to the desired depth and take water chemistry readings, which are then logged for later viewing. Monitor progress via the Serial Monitor on your control device.</p>
-</section>
-<section id="robot-functions" class="level3">
-<h3 class="anchored" data-anchor-id="robot-functions">Robot Functions</h3>
-<ul>
-<li>Remote viewing of environmental data like pH, conductivity, and dissolved oxygen.</li>
-<li>Camera viewing for biological and population monitoring.</li>
-</ul>
+<section id="watershed-conservation-and-research-center" class="level3">
+<h3 class="anchored" data-anchor-id="watershed-conservation-and-research-center">Watershed Conservation and Research Center</h3>
 
 
 </section>

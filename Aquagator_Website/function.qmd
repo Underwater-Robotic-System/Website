@@ -15,8 +15,8 @@ title: "Robotic Functions"
 - pyserial — pip install pyserial
 
 ### Sensor Box
-
 Sensors are color coded between robot connection points and the physical sensor box. It is important to connect the same colors to ensure proper robot function. Improper sensor use or connection will result in inaccurate readings.
+
 #### Sensor Use
 - Remove protective covers from any sensors that have them
 - Leave sensors in air for 5–10 minutes — this allows them to self-calibrate
